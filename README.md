@@ -25,7 +25,7 @@ This patch is known-working on PrismLauncher, however I'm not sure on other laun
 To edit your instance json in Prism, follow these steps:
 1. Go to your 1.18.2 instance, and click "edit"
 2. Go to "Version", and click "Minecraft"
-   3. On the sidebar, click "Customize", then "Edit"
+3. On the sidebar, click "Customize", then "Edit"
 
 ### Minecraft versions this works with:
 - 1.18.2
